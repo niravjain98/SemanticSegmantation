@@ -1,4 +1,4 @@
 tqdm
 pillow
 scipy==1.0.0
-tensorflow==1.14.0
+tensorflow-gpu==1.15.2
